@@ -4,6 +4,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) React Eğitiminde oluşturduğu
 
 ![github](figures/github.png)
 
+***
+## Patika.dev üzerinden eğitimleri alabilirisiniz.
+
+[***patika.dev***](www.patika.dev)
+***
 
 ## Installation
 
