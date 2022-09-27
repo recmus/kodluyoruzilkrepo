@@ -2,12 +2,12 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) React Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](figures/github.png)
+![github](.figures/github.png)
 
 ***
 ## Patika.dev üzerinden eğitimleri alabilirisiniz.
 
-[***patika.dev***](www.patika.dev)
+[***patika.dev***] (www.patika.dev)
 ***
 
 ## Installation
